@@ -1,0 +1,1 @@
+import{I as e,d as t,f as n,pt as r,z as i}from"./runtime-core.esm-bundler-CZJr8mT_.js";import{t as a}from"./exam-DWaaPQqU.js";var o={__name:`Dashboard`,setup(o){let s=a();return s.getExamData(),(a,o)=>{let c=i(`RouterView`);return r(s).isLoading?n(``,!0):(e(),t(c,{key:0}))}}};export{o as default};
