@@ -1,0 +1,1 @@
+import{I as e,_ as t,at as n,p as r}from"./runtime-core.esm-bundler-CZJr8mT_.js";import{t as i}from"./Exam-Dnx-mb2-.js";var a={class:`pa-6`},o={__name:`Listening`,setup(o){let s=n(`Listening`);return(n,o)=>(e(),r(`div`,a,[t(i,{class_type:s.value},null,8,[`class_type`])]))}};export{o as default};
